@@ -1,3 +1,8 @@
+# shandianchengzi新增
+我加了一个根据日志和文档生成一个xlsx文件的功能在下载/main.py，顺便把exe放上来了。
+
+运行结果示意在下载/output.xlsx。
+
 # 微信公众号文章批量下载工具
 
 一款可以批量下载微信公众号文章内容的小工具，无需安装证书，支持Window、MacOS
